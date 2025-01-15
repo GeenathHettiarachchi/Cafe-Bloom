@@ -5,12 +5,10 @@ import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 
-class ShakeActivity : AppCompatActivity() {
-
+class BreakfastActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_shake)
-
+        setContentView(R.layout.activity_breakfast)
         // Optionally set a custom toolbar or action bar
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
     }
@@ -25,7 +23,6 @@ class ShakeActivity : AppCompatActivity() {
         super.onBackPressed()
         finish()
     }
-
     fun shakepage (view: View?){
         val shakePage = Intent(applicationContext,ShakeActivity:: class.java)
         startActivity(shakePage)
@@ -54,5 +51,4 @@ class ShakeActivity : AppCompatActivity() {
         val brewingcoffeePage = Intent(applicationContext,BrewingCoffeeActivity:: class.java)
         startActivity(brewingcoffeePage)
     }
-
 }

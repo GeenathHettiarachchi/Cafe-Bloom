@@ -22,6 +22,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".HotDrinksActivity"></activity>
+        <activity android:name=".IcedCoffeeActivity"></activity>
+        <activity android:name=".BreakfastActivity"></activity>
+        <activity android:name=".CokeActivity"></activity>
+        <activity android:name=".BrewingCoffeeActivity"></activity>
+        <activity android:name=".HotCoffeeActivity"></activity>
     </application>
 
 </manifest>
