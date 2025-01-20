@@ -1,3 +1,4 @@
 <resources>
+    <string name="example">Help &amp; Support</string>
     <string name="app_name">CafeBloom</string>
 </resources>
