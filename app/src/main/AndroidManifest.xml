@@ -14,7 +14,7 @@
         android:theme="@style/Theme.CafeBloom"
         tools:targetApi="31">
         <activity
-            android:name=".MenuActivity"
+            android:name=".DBHelper"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
