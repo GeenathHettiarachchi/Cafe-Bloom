@@ -10,7 +10,7 @@ import android.widget.Button
 import android.widget.HorizontalScrollView
 
 
-class DBHelper(context: Context) : SQLiteOpenHelper(context, "CafeBloom", null, 1) {
+class DBHelperUser(context: Context) : SQLiteOpenHelper(context, "CafeBloom", null, 1) {
     companion object {
         const val TABLE_NAME = "User"
         private const val SQL_CREATE_ENTRIES = "CREATE TABLE $TABLE_NAME (id INTEGER PRIMARY KEY AUTOINCREMENT, UserName TEXT, Email TEXT, PhoneNumber TEXT, Password TEXT)"

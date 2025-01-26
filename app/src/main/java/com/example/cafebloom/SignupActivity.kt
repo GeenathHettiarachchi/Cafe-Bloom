@@ -5,6 +5,7 @@ import android.os.Bundle
 import android.support.design.widget.TextInputEditText
 import android.support.v7.app.AppCompatActivity
 import android.widget.Button
+import android.widget.TextView
 import android.widget.Toast
 
 class SignupActivity : AppCompatActivity() {
@@ -39,11 +40,23 @@ class SignupActivity : AppCompatActivity() {
                     Toast.makeText(applicationContext, "Confirm Password is incorrect", Toast.LENGTH_SHORT).show()
                 }
                 else -> {
+                    //
+
+
+                    val db = DBHelperUser(applicationContext);
+                    db.insertUser(userNameText, emailText, phoneText, passwordText)
+
                     // If all validations pass, navigate to the Login screen
                     val gotoLogin = Intent(applicationContext, LoginActivity::class.java)
                     startActivity(gotoLogin)
                 }
             }
+        }
+
+        val signin = findViewById<TextView>(R.id.sign_in)
+        signin.setOnClickListener {
+            val goToSignIn = Intent(applicationContext, LoginActivity::class.java)
+            startActivity(goToSignIn)
         }
     }
 }
