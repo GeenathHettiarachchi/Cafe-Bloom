@@ -3,6 +3,25 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+
+        <entry key="..\:/University of Kelaniya/6th Semester/BECS 32272 - Mobile Application Development/Project/Cafe-Bloom/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.157" />
+        <entry key="..\:/University of Kelaniya/6th Semester/BECS 32272 - Mobile Application Development/Project/Cafe-Bloom/app/src/main/res/drawable/button_background.xml" value="0.157" />
+        <entry key="..\:/University of Kelaniya/6th Semester/BECS 32272 - Mobile Application Development/Project/Cafe-Bloom/app/src/main/res/drawable/button_hover.xml" value="0.157" />
+        <entry key="..\:/University of Kelaniya/6th Semester/BECS 32272 - Mobile Application Development/Project/Cafe-Bloom/app/src/main/res/drawable/button_normal.xml" value="0.157" />
+        <entry key="..\:/University of Kelaniya/6th Semester/BECS 32272 - Mobile Application Development/Project/Cafe-Bloom/app/src/main/res/drawable/button_pressed.xml" value="0.157" />
+        <entry key="..\:/University of Kelaniya/6th Semester/BECS 32272 - Mobile Application Development/Project/Cafe-Bloom/app/src/main/res/drawable/ic_launcher_background.xml" value="0.157" />
+        <entry key="..\:/University of Kelaniya/6th Semester/BECS 32272 - Mobile Application Development/Project/Cafe-Bloom/app/src/main/res/drawable/rounded_button.xml" value="0.157" />
+        <entry key="..\:/University of Kelaniya/6th Semester/BECS 32272 - Mobile Application Development/Project/Cafe-Bloom/app/src/main/res/drawable/rounded_edittext.xml" value="0.157" />
+        <entry key="..\:/University of Kelaniya/6th Semester/BECS 32272 - Mobile Application Development/Project/Cafe-Bloom/app/src/main/res/drawable/textview_normal.xml" value="0.157" />
+        <entry key="..\:/University of Kelaniya/6th Semester/BECS 32272 - Mobile Application Development/Project/Cafe-Bloom/app/src/main/res/font/caladea.xml" value="0.1" />
+        <entry key="..\:/University of Kelaniya/6th Semester/BECS 32272 - Mobile Application Development/Project/Cafe-Bloom/app/src/main/res/font/league_spartan_thin.xml" value="0.28020833333333334" />
+        <entry key="..\:/University of Kelaniya/6th Semester/BECS 32272 - Mobile Application Development/Project/Cafe-Bloom/app/src/main/res/font/lily_script_one.xml" value="0.28020833333333334" />
+        <entry key="..\:/University of Kelaniya/6th Semester/BECS 32272 - Mobile Application Development/Project/Cafe-Bloom/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/University of Kelaniya/6th Semester/BECS 32272 - Mobile Application Development/Project/Cafe-Bloom/app/src/main/res/layout/activity_signup.xml" value="0.25" />
+        <entry key="..\:/University of Kelaniya/6th Semester/BECS 32272 - Mobile Application Development/Project/Cafe-Bloom/app/src/main/res/layout/logininterface.xml" value="0.22282608695652173" />
+        <entry key="..\:/University of Kelaniya/6th Semester/BECS 32272 - Mobile Application Development/Project/Cafe-Bloom/app/src/main/res/layout/loginpage.xml" value="0.176" />
+
+        
         <entry key="..\:/University of Kelaniya/Course Units/6th Semester/BECS 32272 - Mobile Application Development/Project/Cafe-Bloom/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
         <entry key="..\:/University of Kelaniya/Course Units/6th Semester/BECS 32272 - Mobile Application Development/Project/Cafe-Bloom/app/src/main/res/drawable/bottom_nav_indicator.xml" value="0.1" />
         <entry key="..\:/University of Kelaniya/Course Units/6th Semester/BECS 32272 - Mobile Application Development/Project/Cafe-Bloom/app/src/main/res/drawable/bottom_nav_item_background.xml" value="0.1" />
@@ -21,6 +40,7 @@
         <entry key="..\:/University of Kelaniya/Course Units/6th Semester/BECS 32272 - Mobile Application Development/Project/Cafe-Bloom/app/src/main/res/layout/activity_menu.xml" value="0.264" />
         <entry key="..\:/University of Kelaniya/Course Units/6th Semester/BECS 32272 - Mobile Application Development/Project/Cafe-Bloom/app/src/main/res/layout/my_orders.xml" value="0.1109375" />
         <entry key="..\:/University of Kelaniya/Course Units/6th Semester/BECS 32272 - Mobile Application Development/Project/Cafe-Bloom/app/src/main/res/menu/bottom_menu.xml" value="0.1" />
+
       </map>
     </option>
   </component>
