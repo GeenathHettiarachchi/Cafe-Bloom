@@ -3,15 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/University of Kelaniya/Course Units/6th Semester/BECS 32272 - Mobile Application Development/Project/Cafe-Bloom/app/src/main/res/drawable/card_background.xml" value="0.1315" />
+        <entry key="..\:/University of Kelaniya/Course Units/6th Semester/BECS 32272 - Mobile Application Development/Project/Cafe-Bloom/app/src/main/res/drawable/radius40.xml" value="0.1" />
+        <entry key="..\:/University of Kelaniya/Course Units/6th Semester/BECS 32272 - Mobile Application Development/Project/Cafe-Bloom/app/src/main/res/drawable/rounded_button_20.xml" value="0.2545" />
+        <entry key="..\:/University of Kelaniya/Course Units/6th Semester/BECS 32272 - Mobile Application Development/Project/Cafe-Bloom/app/src/main/res/drawable/search_bar_background.xml" value="0.1315" />
         <entry key="..\:/University of Kelaniya/Course Units/6th Semester/BECS 32272 - Mobile Application Development/Project/Cafe-Bloom/app/src/main/res/font/caladea.xml" value="0.12962962962962962" />
         <entry key="..\:/University of Kelaniya/Course Units/6th Semester/BECS 32272 - Mobile Application Development/Project/Cafe-Bloom/app/src/main/res/font/league_spartan_thin.xml" value="0.12962962962962962" />
         <entry key="..\:/University of Kelaniya/Course Units/6th Semester/BECS 32272 - Mobile Application Development/Project/Cafe-Bloom/app/src/main/res/font/lily_script_one.xml" value="0.12962962962962962" />
-        <entry key="..\:/University of Kelaniya/Course Units/6th Semester/BECS 32272 - Mobile Application Development/Project/Cafe-Bloom/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/University of Kelaniya/Course Units/6th Semester/BECS 32272 - Mobile Application Development/Project/Cafe-Bloom/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/University of Kelaniya/Course Units/6th Semester/BECS 32272 - Mobile Application Development/Project/Cafe-Bloom/app/src/main/res/layout/activity_menu.xml" value="0.1105072463768116" />
+        <entry key="..\:/University of Kelaniya/Course Units/6th Semester/BECS 32272 - Mobile Application Development/Project/Cafe-Bloom/app/src/main/res/layout/activity_splash.xml" value="0.23229166666666667" />
+        <entry key="..\:/University of Kelaniya/Course Units/6th Semester/BECS 32272 - Mobile Application Development/Project/Cafe-Bloom/app/src/main/res/layout/fragment_menu.xml" value="0.25" />
         <entry key="..\:/University of Kelaniya/Course Units/6th Semester/BECS 32272 - Mobile Application Development/Project/Cafe-Bloom/app/src/main/res/layout/my_orders.xml" value="0.1109375" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
